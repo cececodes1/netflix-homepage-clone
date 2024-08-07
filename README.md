@@ -21,4 +21,5 @@ Open the `index.html` file in your web browser to view the Netflix homepage clon
 
 ## Contributing
 
-Contributions are welcome! If you have any improvements or suggestions, please fork the repository and create a pull request. You can also open an issue to discuss any changes.
+Contributions are very much welcomed! I am in need of help with Flexbox towards the end of the Netflix homepage. If you have any improvements or suggestions, please fork the repository and create a pull request. You can also open an issue to discuss any changes.
+
